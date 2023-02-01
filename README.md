@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aman-sharma-nine
-- 👀 I’m interested in Applie Machine Learning. Specifically interested in building large scale time series models with complex structures. 
+- 👀 I’m interested in Applied Machine Learning. Specifically interested in building large scale time series models with complex structures. 
 - 🌱 I’m currently learning building end-to-end ML pipelines in GCP 
 - 💞️ I’m looking to collaborate on models on tabular datasets
 - 📫 How to reach me  
