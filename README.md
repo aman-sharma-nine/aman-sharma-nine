@@ -14,15 +14,9 @@
 - Public-Talks
 - Employer
       - DataRobot
-            - `[composable ML tasks](https://github.com/aman-sharma-nine/composable-ml)`
+            - composable ML tasks](https://github.com/aman-sharma-nine/composable-ml)
             
 ```
 
             
       
-      
-'''<!---
-aman-sharma-nine/aman-sharma-nine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-'''
